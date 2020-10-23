@@ -13,7 +13,7 @@ https://ionicframework.com/docs/developing/android
 
     2.1 ionic build
     2.2 ionic capacitor add android
-    2.3 ionic cordova prepare android
+    2.3 ionic cordova prepare android --> solo si se utiliza cordova
     2.4 ionic capacitor copy android --> para copiar a la app, tambien sirve
     para dispositivos fisicos
 3. Exportar el Proyecto Ionic a Android estudio
